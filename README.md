@@ -150,21 +150,6 @@ The system can be evaluated using the following test cases:
 | Dry surface | Vacuum operation |
 | Camera monitoring | Live video streaming |
 
-## 📸 Project Images
-
-Add your actual prototype photographs here.
-
-```markdown
-![Robot Prototype](Images/prototype.jpg)
-```
-
-## 🎥 Project Demonstration Video
-
-**Video Link:** [Add your YouTube or Google Drive link here]
-
-## 📄 Project Report
-
-**Download/View Full Project Report:** [Add your PDF link here]
 
 ## 🚀 Future Enhancements
 
